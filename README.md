@@ -1,4 +1,4 @@
-# ML_Model_Showdown-Performance_Stability_-_Efficiency
+# ML_Model_Showdown-Performance_Stability_Efficiency
 
 A reusable machine learning benchmarking project for evaluating multiple classification algorithms across diverse datasets based on predictive performance, cross-validation stability, cross-dataset consistency, computational efficiency, and dataset characteristics.
 
