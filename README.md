@@ -358,7 +358,7 @@ The notebook contains the detailed references and benchmarking methodology.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
 
 ---
 
